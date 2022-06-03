@@ -14,7 +14,7 @@ void loop()
 {
   if(Serial.available()) //si recibe datos del puerto serial
   {
-    SerialBT.write(Serial.read()); //manda los datos
+    SerialBT.write(Serial.read()); //manda los datos bluetooth
   }
   if(SerialBT.available()) //si recibe datos bluetooth
   {
