@@ -22,4 +22,12 @@ void loop()
   }
 }
 ```
+
+### Puerto Serial
 <img src="https://github.com/IDiegoUlises/Esp32-Bluetooth/blob/main/Images/Puerto-Serial.png" />
+
+### Telefono
+<img src="https://github.com/IDiegoUlises/Esp32-Bluetooth/blob/main/Images/Captura.jpg" width="300" height="500" />
+
+
+
