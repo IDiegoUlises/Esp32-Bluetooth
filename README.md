@@ -1,4 +1,4 @@
-# Esp32-Bluetooth
+# Esp32 Bluetooth
 
 ```c++
 #include "BluetoothSerial.h"
