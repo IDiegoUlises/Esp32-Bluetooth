@@ -22,6 +22,8 @@ void loop()
   }
 }
 ```
+* Comunicacion Bluetooth bidireccional
+* Envia y recibe datos
 
 ### Puerto Serial
 <img src="https://github.com/IDiegoUlises/Esp32-Bluetooth/blob/main/Images/Puerto-Serial.png" />
